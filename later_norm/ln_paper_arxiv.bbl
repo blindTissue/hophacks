@@ -1,0 +1,214 @@
+\begin{thebibliography}{32}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Krizhevsky et~al.(2012)Krizhevsky, Sutskever, and
+  Hinton]{krizhevsky2012imagenet}
+Alex Krizhevsky, Ilya Sutskever, and Geoffrey~E Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock In \emph{NIPS}, 2012.
+
+\bibitem[Hinton et~al.(2012)Hinton, Deng, Yu, Dahl, Mohamed, Jaitly, Senior,
+  Vanhoucke, Nguyen, Sainath, et~al.]{hinton2012deep}
+Geoffrey Hinton, Li~Deng, Dong Yu, George~E Dahl, Abdel-rahman Mohamed, Navdeep
+  Jaitly, Andrew Senior, Vincent Vanhoucke, Patrick Nguyen, Tara~N Sainath,
+  et~al.
+\newblock Deep neural networks for acoustic modeling in speech recognition: The
+  shared views of four research groups.
+\newblock \emph{IEEE}, 2012.
+
+\bibitem[Dean et~al.(2012)Dean, Corrado, Monga, Chen, Devin, Mao, Senior,
+  Tucker, Yang, Le, et~al.]{dean2012large}
+Jeffrey Dean, Greg Corrado, Rajat Monga, Kai Chen, Matthieu Devin, Mark Mao,
+  Andrew Senior, Paul Tucker, Ke~Yang, Quoc~V Le, et~al.
+\newblock Large scale distributed deep networks.
+\newblock In \emph{NIPS}, 2012.
+
+\bibitem[Ioffe and Szegedy(2015)]{ioffe2015batch}
+Sergey Ioffe and Christian Szegedy.
+\newblock Batch normalization: Accelerating deep network training by reducing
+  internal covariate shift.
+\newblock \emph{ICML}, 2015.
+
+\bibitem[Sutskever et~al.(2014)Sutskever, Vinyals, and
+  Le]{sutskever2014sequence}
+Ilya Sutskever, Oriol Vinyals, and Quoc~V Le.
+\newblock Sequence to sequence learning with neural networks.
+\newblock In \emph{Advances in neural information processing systems}, pages
+  3104--3112, 2014.
+
+\bibitem[Laurent et~al.(2015)Laurent, Pereyra, Brakel, Zhang, and
+  Bengio]{laurent2015batch}
+C{\'e}sar Laurent, Gabriel Pereyra, Phil{\'e}mon Brakel, Ying Zhang, and Yoshua
+  Bengio.
+\newblock Batch normalized recurrent neural networks.
+\newblock \emph{arXiv preprint arXiv:1510.01378}, 2015.
+
+\bibitem[Amodei et~al.(2015)Amodei, Anubhai, Battenberg, Case, Casper,
+  Catanzaro, Chen, Chrzanowski, Coates, Diamos, et~al.]{amodei2015deep}
+Dario Amodei, Rishita Anubhai, Eric Battenberg, Carl Case, Jared Casper, Bryan
+  Catanzaro, Jingdong Chen, Mike Chrzanowski, Adam Coates, Greg Diamos, et~al.
+\newblock Deep speech 2: End-to-end speech recognition in english and mandarin.
+\newblock \emph{arXiv preprint arXiv:1512.02595}, 2015.
+
+\bibitem[Cooijmans et~al.(2016)Cooijmans, Ballas, Laurent, and
+  Courville]{cooijmans2016recurrent}
+Tim Cooijmans, Nicolas Ballas, C{\'e}sar Laurent, and Aaron Courville.
+\newblock Recurrent batch normalization.
+\newblock \emph{arXiv preprint arXiv:1603.09025}, 2016.
+
+\bibitem[Salimans and Kingma(2016)]{salimans2016weight}
+Tim Salimans and Diederik~P Kingma.
+\newblock Weight normalization: A simple reparameterization to accelerate
+  training of deep neural networks.
+\newblock \emph{arXiv preprint arXiv:1602.07868}, 2016.
+
+\bibitem[Neyshabur et~al.(2015)Neyshabur, Salakhutdinov, and
+  Srebro]{neyshabur2015path}
+Behnam Neyshabur, Ruslan~R Salakhutdinov, and Nati Srebro.
+\newblock Path-sgd: Path-normalized optimization in deep neural networks.
+\newblock In \emph{Advances in Neural Information Processing Systems}, pages
+  2413--2421, 2015.
+
+\bibitem[Amari(1998)]{amari1998natural}
+Shun-Ichi Amari.
+\newblock Natural gradient works efficiently in learning.
+\newblock \emph{Neural computation}, 1998.
+
+\bibitem[Vendrov et~al.(2016)Vendrov, Kiros, Fidler, and
+  Urtasun]{vendrov2015order}
+Ivan Vendrov, Ryan Kiros, Sanja Fidler, and Raquel Urtasun.
+\newblock Order-embeddings of images and language.
+\newblock \emph{ICLR}, 2016.
+
+\bibitem[Team et~al.(2016)Team, Al-Rfou, Alain, Almahairi, Angermueller,
+  Bahdanau, Ballas, Bastien, Bayer, Belikov, et~al.]{team2016theano}
+The Theano~Development Team, Rami Al-Rfou, Guillaume Alain, Amjad Almahairi,
+  Christof Angermueller, Dzmitry Bahdanau, Nicolas Ballas, Fr{\'e}d{\'e}ric
+  Bastien, Justin Bayer, Anatoly Belikov, et~al.
+\newblock Theano: A python framework for fast computation of mathematical
+  expressions.
+\newblock \emph{arXiv preprint arXiv:1605.02688}, 2016.
+
+\bibitem[Lin et~al.(2014)Lin, Maire, Belongie, Hays, Perona, Ramanan,
+  Doll{\'a}r, and Zitnick]{lin2014microsoft}
+Tsung-Yi Lin, Michael Maire, Serge Belongie, James Hays, Pietro Perona, Deva
+  Ramanan, Piotr Doll{\'a}r, and C~Lawrence Zitnick.
+\newblock Microsoft coco: Common objects in context.
+\newblock \emph{ECCV}, 2014.
+
+\bibitem[Cho et~al.(2014)Cho, Van~Merri{\"e}nboer, Gulcehre, Bahdanau,
+  Bougares, Schwenk, and Bengio]{cho2014learning}
+Kyunghyun Cho, Bart Van~Merri{\"e}nboer, Caglar Gulcehre, Dzmitry Bahdanau,
+  Fethi Bougares, Holger Schwenk, and Yoshua Bengio.
+\newblock Learning phrase representations using rnn encoder-decoder for
+  statistical machine translation.
+\newblock \emph{EMNLP}, 2014.
+
+\bibitem[Simonyan and Zisserman(2015)]{simonyan2014very}
+Karen Simonyan and Andrew Zisserman.
+\newblock Very deep convolutional networks for large-scale image recognition.
+\newblock \emph{ICLR}, 2015.
+
+\bibitem[Kiros et~al.(2014)Kiros, Salakhutdinov, and Zemel]{kiros2014unifying}
+Ryan Kiros, Ruslan Salakhutdinov, and Richard~S Zemel.
+\newblock Unifying visual-semantic embeddings with multimodal neural language
+  models.
+\newblock \emph{arXiv preprint arXiv:1411.2539}, 2014.
+
+\bibitem[Kingma and Ba(2014)]{adam}
+D.~Kingma and J.~L. Ba.
+\newblock Adam: a method for stochastic optimization.
+\newblock \emph{ICLR}, 2014.
+\newblock arXiv:1412.6980.
+
+\bibitem[Wang et~al.(2016)Wang, Li, and Lazebnik]{wang2015learning}
+Liwei Wang, Yin Li, and Svetlana Lazebnik.
+\newblock Learning deep structure-preserving image-text embeddings.
+\newblock \emph{CVPR}, 2016.
+
+\bibitem[Hermann et~al.(2015)Hermann, Kocisky, Grefenstette, Espeholt, Kay,
+  Suleyman, and Blunsom]{hermann2015teaching}
+Karl~Moritz Hermann, Tomas Kocisky, Edward Grefenstette, Lasse Espeholt, Will
+  Kay, Mustafa Suleyman, and Phil Blunsom.
+\newblock Teaching machines to read and comprehend.
+\newblock In \emph{NIPS}, 2015.
+
+\bibitem[Kiros et~al.(2015)Kiros, Zhu, Salakhutdinov, Zemel, Urtasun, Torralba,
+  and Fidler]{kiros2015skip}
+Ryan Kiros, Yukun Zhu, Ruslan~R Salakhutdinov, Richard Zemel, Raquel Urtasun,
+  Antonio Torralba, and Sanja Fidler.
+\newblock Skip-thought vectors.
+\newblock In \emph{NIPS}, 2015.
+
+\bibitem[Mikolov et~al.(2013)Mikolov, Chen, Corrado, and
+  Dean]{mikolov2013efficient}
+Tomas Mikolov, Kai Chen, Greg Corrado, and Jeffrey Dean.
+\newblock Efficient estimation of word representations in vector space.
+\newblock \emph{arXiv preprint arXiv:1301.3781}, 2013.
+
+\bibitem[Zhu et~al.(2015)Zhu, Kiros, Zemel, Salakhutdinov, Urtasun, Torralba,
+  and Fidler]{zhu2015aligning}
+Yukun Zhu, Ryan Kiros, Rich Zemel, Ruslan Salakhutdinov, Raquel Urtasun,
+  Antonio Torralba, and Sanja Fidler.
+\newblock Aligning books and movies: Towards story-like visual explanations by
+  watching movies and reading books.
+\newblock In \emph{ICCV}, 2015.
+
+\bibitem[Marelli et~al.(2014)Marelli, Bentivogli, Baroni, Bernardi, Menini, and
+  Zamparelli]{marelli2014semeval}
+Marco Marelli, Luisa Bentivogli, Marco Baroni, Raffaella Bernardi, Stefano
+  Menini, and Roberto Zamparelli.
+\newblock Semeval-2014 task 1: Evaluation of compositional distributional
+  semantic models on full sentences through semantic relatedness and textual
+  entailment.
+\newblock \emph{SemEval-2014}, 2014.
+
+\bibitem[Pang and Lee(2005)]{pang2005seeing}
+Bo~Pang and Lillian Lee.
+\newblock Seeing stars: Exploiting class relationships for sentiment
+  categorization with respect to rating scales.
+\newblock In \emph{ACL}, pages 115--124, 2005.
+
+\bibitem[Hu and Liu(2004)]{hu2004mining}
+Minqing Hu and Bing Liu.
+\newblock Mining and summarizing customer reviews.
+\newblock In \emph{Proceedings of the tenth ACM SIGKDD international conference
+  on Knowledge discovery and data mining}, 2004.
+
+\bibitem[Pang and Lee(2004)]{pang2004sentimental}
+Bo~Pang and Lillian Lee.
+\newblock A sentimental education: Sentiment analysis using subjectivity
+  summarization based on minimum cuts.
+\newblock In \emph{ACL}, 2004.
+
+\bibitem[Wiebe et~al.(2005)Wiebe, Wilson, and Cardie]{wiebe2005annotating}
+Janyce Wiebe, Theresa Wilson, and Claire Cardie.
+\newblock Annotating expressions of opinions and emotions in language.
+\newblock \emph{Language resources and evaluation}, 2005.
+
+\bibitem[Gregor et~al.(2015)Gregor, Danihelka, Graves, and Wierstra]{draw}
+K.~Gregor, I.~Danihelka, A.~Graves, and D.~Wierstra.
+\newblock {DRAW}: a recurrent neural network for image generation.
+\newblock arXiv:1502.04623, 2015.
+
+\bibitem[Larochelle and Murray(2011)]{hugobmnist}
+Hugo Larochelle and Iain Murray.
+\newblock The neural autoregressive distribution estimator.
+\newblock In \emph{AISTATS}, volume~6, page 622, 2011.
+
+\bibitem[Liwicki and Bunke(2005)]{liwicki2005iam}
+Marcus Liwicki and Horst Bunke.
+\newblock Iam-ondb-an on-line english sentence database acquired from
+  handwritten text on a whiteboard.
+\newblock In \emph{ICDAR}, 2005.
+
+\bibitem[Graves(2013)]{graves2013generating}
+Alex Graves.
+\newblock Generating sequences with recurrent neural networks.
+\newblock \emph{arXiv preprint arXiv:1308.0850}, 2013.
+
+\end{thebibliography}

@@ -1,0 +1,86 @@
+\newcommand{\cut}[1]{}
+
+\newcommand{\T}{\top}
+\newcommand{\real}{\mathbb{R}}
+\newcommand{\grad}{\nabla}
+\newcommand{\be}{\begin{equation}}
+\newcommand{\ee}{\end{equation}}
+\def\bea#1\eea{\begin{align}#1\end{align}}
+\def\bean#1\eean{\begin{align*}#1\end{align*}}
+\makeatletter
+\renewcommand*\env@matrix[1][\arraystretch]{%
+  \edef\arraystretch{#1}%
+  \hskip -\arraycolsep
+  \let\@ifnextchar\new@ifnextchar
+  \array{*\c@MaxMatrixCols c}}
+\makeatother
+
+\DeclareMathOperator{\vecop}{vec}
+\newcommand{\Target}{{\bold y}}
+\newcommand{\normX}{{\chi}}
+\newcommand{\noise}{{\xi}}
+\newcommand{\actFunc}{{f}}
+\newcommand{\gain}{{g}}
+\newcommand{\Gain}{{\bold g}}
+\newcommand{\bias}{{b}}
+\newcommand{\Bias}{{\bold b}}
+\newcommand{\Weights}{{W}}
+\newcommand{\weights}{{w}}
+\newcommand{\hidden}{{h}}
+\newcommand{\Hidden}{{\bold h}}
+\newcommand{\act}{{a}}
+\newcommand{\Act}{{\bold a}}
+\newcommand{\fisher}{{F}}
+\newcommand{\data}{{\bold x}}
+\newcommand{\loss}{\mathcal{L}}
+\newcommand{\expectation}{\mathop{\mathbb{E}}}
+\newcommand{\kldiv}{\mathrm{D}_{\rm KL}}
+\newcommand{\klBars}{\,\|\,}
+\newcommand{\entropy}{\mathcal{H}}
+\newcommand{\partitionFn}{\mathcal{Z}}
+\newcommand{\given}{\,|\,}
+
+%\newcommand{\logLikelihood}{\mathcal{LL}}
+\newcommand{\logLikelihood}{\ell}
+\newcommand{\freeEnergy}{\mathcal{F}}
+
+\newcommand{\sampleIdx}{m}
+\newcommand{\sampleIdxTwo}{i}
+\newcommand{\numSamples}{M}
+\newcommand{\glimpseIdx}{n}
+\newcommand{\glimpseIdxTwo}{i}
+\newcommand{\numGlimpses}{N}
+\newcommand{\locIdx}{i}
+\newcommand{\numLocs}{L}
+
+
+\newcommand{\image}{{\cal I}}
+\newcommand{\obs}{\image}
+\newcommand{\target}{y}
+\newcommand{\attn}{{\bf a}}
+\newcommand{\attnN}[1]{a_{#1}}
+\newcommand{\attnSampleM}[1]{\tilde{\bf a}^{#1}}
+\newcommand{\attnNI}[2]{\attn_{#1 #2}}
+\newcommand{\modelWeights}{{\boldsymbol \theta}}
+\newcommand{\importanceWeightM}[1]{\tilde{w}^{#1}}
+\newcommand{\importanceSum}{\tilde{Z}}
+\newcommand{\importanceWeightNormM}[1]{w^{#1}}
+\newcommand{\recogWeights}{{\boldsymbol \eta}}
+\newcommand{\baseline}{b}
+\newcommand{\baselineP}[1]{\baseline_{#1}}
+\newcommand{\recurrentStateNL}[2]{{\bf r}_{#1}^{(#2)}}
+\newcommand{\avgAttn}{\tau}
+\newcommand{\glimpseFeaturesN}[1]{{\bf x}_{#1}}
+\newcommand{\attnMap}{g}
+\newcommand{\reward}{R}
+\newcommand{\tempParam}{T}
+
+
+
+
+
+
+
+
+
+

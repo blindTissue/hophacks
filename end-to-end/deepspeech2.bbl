@@ -1,0 +1,417 @@
+\begin{thebibliography}{10}
+
+\bibitem{abdelhamid2012}
+O.~Abdel-Hamid, A.-r. Mohamed, H.~Jang, and G.~Penn.
+\newblock Applying convolutional neural networks concepts to hybrid nn-hmm
+  model for speech recognition.
+\newblock In {\em ICASSP}, 2012.
+
+\bibitem{bahdanau2015}
+D.~Bahdanau, K.~Cho, and Y.~Bengio.
+\newblock Neural machine translation by jointly learning to align and
+  translate.
+\newblock In {\em ICLR}, 2015.
+
+\bibitem{bahdanau2015b}
+D.~Bahdanau, J.~Chorowski, D.~Serdyuk, P.~Brakel, and Y.~Bengio.
+\newblock End-to-end attention-based large vocabulary speech recognition.
+\newblock abs/1508.04395, 2015.
+\newblock http://arxiv.org/abs/1508.04395.
+
+\bibitem{barker2015chime}
+J.~Barker, E.~Marxer, Ricard~Vincent, and S.~Watanabe.
+\newblock The third {'CHiME'} speech separation and recognition challenge:
+  Dataset, task and baselines.
+\newblock 2015.
+\newblock Submitted to IEEE 2015 Automatic Speech Recognition and Understanding
+  Workshop (ASRU).
+
+\bibitem{ModernGPU}
+S.~Baxter.
+\newblock {Modern GPU}.
+\newblock \url{https://nvlabs.github.io/moderngpu/}.
+
+\bibitem{bengio2009curriculum}
+Y.~Bengio, J.~Louradour, R.~Collobert, and J.~Weston.
+\newblock Curriculum learning.
+\newblock In {\em International Conference on Machine Learning}, 2009.
+
+\bibitem{bourlard93}
+H.~Bourlard and N.~Morgan.
+\newblock {\em Connectionist Speech Recognition: A Hybrid Approach}.
+\newblock Kluwer Academic Publishers, Norwell, MA, 1993.
+
+\bibitem{chan2015}
+W.~Chan, N.~Jaitly, Q.~Le, and O.~Vinyals.
+\newblock Listen, attend, and spell.
+\newblock abs/1508.01211, 2015.
+\newblock http://arxiv.org/abs/1508.01211.
+
+\bibitem{chetlur14}
+S.~Chetlur, C.~Woolley, P.~Vandermersch, J.~Cohen, J.~Tran, B.~Catanzaro, and
+  E.~Shelhamer.
+\newblock {cuDNN}: Efficient primitives for deep learning.
+
+\bibitem{chilimbi2014adam}
+T.~Chilimbi, Y.~Suzue, J.~Apacible, and K.~Kalyanaraman.
+\newblock Project adam: Building an efficient and scalable deep learning
+  training system.
+\newblock In {\em USENIX Symposium on Operating Systems Design and
+  Implementation}, 2014.
+
+\bibitem{cho2014}
+K.~Cho, B.~Van~Merrienboer, C.~Gulcehre, D.~Bahdanau, F.~Bougares, H.~Schwenk,
+  and Y.~Bengio.
+\newblock Learning phrase representations using rnn encoder-decoder for
+  statistical machine translation.
+\newblock In {\em EMNLP}, 2014.
+
+\bibitem{chorowski2015firstresults}
+J.~Chorowski, D.~Bahdanau, K.~Cho, and Y.~Bengio.
+\newblock End-to-end continuous speech recognition using attention-based
+  recurrent nn: First results.
+\newblock abs/1412.1602, 2015.
+\newblock http://arxiv.org/abs/1412.1602.
+
+\bibitem{cieri2004Fisher}
+C.~Cieri, D.~Miller, and K.~Walker.
+\newblock The {Fisher} corpus: a resource for the next generations of
+  speech-to-text.
+\newblock In {\em LREC}, volume~4, pages 69--71, 2004.
+
+\bibitem{coates2011icdar}
+A.~Coates, B.~Carpenter, C.~Case, S.~Satheesh, B.~Suresh, T.~Wang, D.~J. Wu,
+  and A.~Y. Ng.
+\newblock Text detection and character recognition in scene images with
+  unsupervised feature learning.
+\newblock In {\em International Conference on Document Analysis and
+  Recognition}, 2011.
+
+\bibitem{coates2013cotshpc}
+A.~Coates, B.~Huval, T.~Wang, D.~J. Wu, A.~Y. Ng, and B.~Catanzaro.
+\newblock Deep learning with {COTS HPC}.
+\newblock In {\em International Conference on Machine Learning}, 2013.
+
+\bibitem{dahl2011}
+G.~Dahl, D.~Yu, and L.~Deng.
+\newblock Large vocabulary continuous speech recognition with context-dependent
+  {DBN-HMMs}.
+\newblock In {\em Proc. ICASSP}, 2011.
+
+\bibitem{dahl2011a}
+G.~Dahl, D.~Yu, L.~Deng, and A.~Acero.
+\newblock Context-dependent pre-trained deep neural networks for large
+  vocabulary speech recognition.
+\newblock {\em IEEE Transactions on Audio, Speech, and Language Processing},
+  2011.
+
+\bibitem{dean2012largescale}
+J.~Dean, G.~S. Corrado, R.~Monga, K.~Chen, M.~Devin, Q.~Le, M.~Mao, M.~Ranzato,
+  A.~Senior, P.~Tucker, K.~Yang, and A.~Ng.
+\newblock Large scale distributed deep networks.
+\newblock In {\em Advances in Neural Information Processing Systems 25}, 2012.
+
+\bibitem{ellis1999}
+D.~Ellis and N.~Morgan.
+\newblock Size matters: An empirical study of neural network training for large
+  vocabulary continuous speech recognition.
+\newblock In {\em ICASSP}, volume~2, pages 1013--1016. IEEE, 1999.
+
+\bibitem{Elsen2015}
+E.~Elsen.
+\newblock {Optimizing RNN performance}.
+\newblock \url{http://svail.github.io/rnn_perf}.
+\newblock Accessed: 2015-11-24.
+
+\bibitem{gales2009}
+M.~J.~F. Gales, A.~Ragni, H.~Aldamarki, and C.~Gautier.
+\newblock Support vector machines for noise robust {ASR}.
+\newblock In {\em ASRU}, pages 205--2010, 2009.
+
+\bibitem{graves2006}
+A.~Graves, S.~Fern{\'a}ndez, F.~Gomez, and J.~Schmidhuber.
+\newblock Connectionist temporal classification: Labelling unsegmented sequence
+  data with recurrent neural networks.
+\newblock In {\em ICML}, pages 369--376. ACM, 2006.
+
+\bibitem{graves2014}
+A.~Graves and N.~Jaitly.
+\newblock Towards end-to-end speech recognition with recurrent neural networks.
+\newblock In {\em ICML}, 2014.
+
+\bibitem{graves2013drnn}
+A.~Graves, A.-r. Mohamed, and G.~Hinton.
+\newblock Speech recognition with deep recurrent neural networks.
+\newblock In {\em ICASSP}, 2013.
+
+\bibitem{sak2014}
+H.~H.~Sak, A.~Senior, and F.~Beaufays.
+\newblock Long short-term memory recurrent neural network architectures for
+  large scale acoustic modeling.
+\newblock In {\em Interspeech}, 2014.
+
+\bibitem{hannun2014deepspeech}
+A.~Hannun, C.~Case, J.~Casper, B.~Catanzaro, G.~Diamos, E.~Elsen, R.~Prenger,
+  S.~Satheesh, S.~Sengupta, A.~Coates, and A.~Y. Ng.
+\newblock Deep speech: Scaling up end-to-end speech recognition.
+\newblock 1412.5567, 2014.
+\newblock http://arxiv.org/abs/1412.5567.
+
+\bibitem{hannun2014firstpass}
+A.~Y. Hannun, A.~L. Maas, D.~Jurafsky, and A.~Y. Ng.
+\newblock First-pass large vocabulary continuous speech recognition using
+  bi-directional recurrent {DNN}s.
+\newblock abs/1408.2873, 2014.
+\newblock http://arxiv.org/abs/1408.2873.
+
+\bibitem{heafield2013kenlm}
+K.~Heafield, I.~Pouzyrevsky, J.~H. Clark, and P.~Koehn.
+\newblock Scalable modified {Kneser-Ney} language model estimation.
+\newblock In {\em Proceedings of the 51st Annual Meeting of the Association for
+  Computational Linguistics}, Sofia, Bulgaria, 8 2013.
+
+\bibitem{hinton2012}
+G.~Hinton, L.~Deng, D.~Yu, G.~Dahl, A.~Mohamed, N.~Jaitly, A.~Senior,
+  V.~Vanhoucke, P.~Nguyen, T.~Sainath, and B.~Kingsbury.
+\newblock Deep neural networks for acoustic modeling in speech recognition.
+\newblock {\em IEEE Signal Processing Magazine}, 29(November):82--97, 2012.
+
+\bibitem{hochreiter1997lstm}
+S.~Hochreiter and J.~Schmidhuber.
+\newblock Long short-term memory.
+\newblock {\em Neural Computation}, 9(8):1735---1780, 1997.
+
+\bibitem{jaitly2013}
+N.~Jaitly and G.~Hinton.
+\newblock Vocal tract length perturbation {(VTLP)} improves speech recognition.
+\newblock In {\em ICML Workshop on Deep Learning for Audio, Speech, and
+  Language Processing}, 2013.
+
+\bibitem{jozefowicz2015}
+R.~Jozefowicz, W.~Zaremba, and I.~Sutskever.
+\newblock An empirical exploration of recurrent network architectures.
+\newblock In {\em ICML}, 2015.
+
+\bibitem{kapralove2014}
+O.~Kapralova, J.~Alex, E.~Weinstein, P.~Moreno, and O.~Siohan.
+\newblock A big data approach to acoustic model training corpus selection.
+\newblock In {\em Interspeech}, 2014.
+
+\bibitem{Knowlton:1965:FSA:365628.365655}
+K.~C. Knowlton.
+\newblock A fast storage allocator.
+\newblock {\em Commun. ACM}, 8(10):623--624, Oct. 1965.
+
+\bibitem{ko2015}
+T.~Ko, V.~Peddinti, D.~Povey, and S.~Khudanpur.
+\newblock Audio augmentation for speech recognition.
+\newblock In {\em Interspeech}, 2015.
+
+\bibitem{krizhevsky2012imagenet}
+A.~Krizhevsky, I.~Sutskever, and G.~Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock In {\em Advances in Neural Information Processing Systems 25}, pages
+  1106--1114, 2012.
+
+\bibitem{laurent2015}
+C.~Laurent, G.~Pereyra, P.~Brakel, Y.~Zhang, and Y.~Bengio.
+\newblock Batch normalized recurrent neural networks.
+\newblock abs/1510.01378, 2015.
+\newblock http://arxiv.org/abs/1510.01378.
+
+\bibitem{le2012faces}
+Q.~Le, M.~Ranzato, R.~Monga, M.~Devin, K.~Chen, G.~Corrado, J.~Dean, and A.~Ng.
+\newblock Building high-level features using large scale unsupervised learning.
+\newblock In {\em International Conference on Machine Learning}, 2012.
+
+\bibitem{lecun2004learningmethods}
+Y.~{LeCun}, F.~J. Huang, and L.~Bottou.
+\newblock Learning methods for generic object recognition with invariance to
+  pose and lighting.
+\newblock In {\em Computer Vision and Pattern Recognition}, volume~2, pages
+  97--104, 2004.
+
+\bibitem{maas2015}
+A.~Maas, Z.~Xie, D.~Jurafsky, and A.~Ng.
+\newblock Lexicon-free conversational speech recognition with neural networks.
+\newblock In {\em NAACL}, 2015.
+
+\bibitem{miao2015}
+Y.~Miao, M.~Gowayyed, and F.~Metz.
+\newblock {EESEN}: End-to-end speech recognition using deep rnn models and
+  wfst-based decoding.
+\newblock In {\em ASRU}, 2015.
+
+\bibitem{mohamed2011}
+A.~Mohamed, G.~Dahl, and G.~Hinton.
+\newblock Acoustic modeling using deep belief networks.
+\newblock {\em IEEE Transactions on Audio, Speech, and Language Processing},
+  (99), 2011.
+
+\bibitem{jaitly2012}
+A.~S. N.~Jaitly, P.~Nguyen and V.~Vanhoucke.
+\newblock Application of pretrained deep neural networks to large vocabulary
+  speech recognition.
+\newblock In {\em Interspeech}, 2012.
+
+\bibitem{NervanaGPU}
+{Nervana Systems}.
+\newblock {Nervana GPU}.
+\newblock \url{https://github.com/NervanaSystems/nervanagpu}.
+\newblock Accessed: 2015-11-06.
+
+\bibitem{niu2013}
+J.~Niu, L.~Xie, L.~Jia, and N.~Hu.
+\newblock Context-dependent deep neural networks for commercial mandarin speech
+  recognition applications.
+\newblock In {\em APSIPA}, 2013.
+
+\bibitem{panayotov2015}
+V.~Panayotov, G.~Chen, D.~Povey, and S.~Khudanpur.
+\newblock Librispeech: an asr corpus based on public domain audio books.
+\newblock In {\em ICASSP}, 2015.
+
+\bibitem{pascanu2012}
+R.~Pascanu, T.~Mikolov, and Y.~Bengio.
+\newblock On the difficulty of training recurrent neural networks.
+\newblock abs/1211.5063, 2012.
+\newblock http://arxiv.org/abs/1211.5063.
+
+\bibitem{Patarasuk:2009:BOA:1482176.1482266}
+P.~Patarasuk and X.~Yuan.
+\newblock Bandwidth optimal all-reduce algorithms for clusters of workstations.
+\newblock {\em J. Parallel Distrib. Comput.}, 69(2):117--124, Feb. 2009.
+
+\bibitem{raina2009large}
+R.~Raina, A.~Madhavan, and A.~Ng.
+\newblock Large-scale deep unsupervised learning using graphics processors.
+\newblock In {\em 26th International Conference on Machine Learning}, 2009.
+
+\bibitem{renals1994}
+S.~Renals, N.~Morgan, H.~Bourlard, M.~Cohen, and H.~Franco.
+\newblock Connectionist probability estimators in {HMM} speech recognition.
+\newblock {\em IEEE Transactions on Speech and Audio Processing},
+  2(1):161--174, 1994.
+
+\bibitem{robinson1996}
+T.~Robinson, M.~Hochberg, and S.~Renals.
+\newblock The use of recurrent neural networks in continuous speech
+  recognition.
+\newblock pages 253--258, 1996.
+
+\bibitem{sainath2015}
+T.~Sainath, O.~Vinyals, A.~Senior, and H.~Sak.
+\newblock Convolutional, long short-term memory, fully connected deep neural
+  networks.
+\newblock In {\em ICASSP}, 2015.
+
+\bibitem{sainath2013cnn}
+T.~N. Sainath, A.~rahman Mohamed, B.~Kingsbury, and B.~Ramabhadran.
+\newblock Deep convolutional neural networks for {LVCSR}.
+\newblock In {\em ICASSP}, 2013.
+
+\bibitem{sak2015}
+H.~Sak, A.~Senior, K.~Rao, and F.~Beaufays.
+\newblock Fast and accurate recurrent neural network acoustic models for speech
+  recognition.
+\newblock abs/1507.06947, 2015.
+\newblock http://arxiv.org/abs/1507.06947.
+
+\bibitem{sak2014b}
+H.~Sak, O.~Vinyals, G.~Heigold, A.~Senior, E.~McDermott, R.~Monga, and M.~Mao.
+\newblock Sequence discriminative distributed training of long shortterm memory
+  recurrent neural networks.
+\newblock In {\em Interspeech}, 2014.
+
+\bibitem{sapp2008synth}
+B.~Sapp, A.~Saxena, and A.~Ng.
+\newblock A fast data collection and augmentation procedure for object
+  recognition.
+\newblock In {\em AAAI Twenty-Third Conference on Artificial Intelligence},
+  2008.
+
+\bibitem{schuster1997bidirectional}
+M.~Schuster and K.~K. Paliwal.
+\newblock Bidirectional recurrent neural networks.
+\newblock {\em IEEE Transactions on Signal Processing}, 45(11):2673--2681,
+  1997.
+
+\bibitem{seide2011b}
+F.~Seide, G.~Li, and D.~Yu.
+\newblock Conversational speech transcription using context-dependent deep
+  neural networks.
+\newblock In {\em Interspeech}, pages 437--440, 2011.
+
+\bibitem{shan2010}
+J.~Shan, G.~Wu, Z.~Hu, X.~Tang, M.~Jansche, and P.~Moreno.
+\newblock Search by voice in mandarin chinese.
+\newblock In {\em Interspeech}, 2010.
+
+\bibitem{soltau2014}
+H.~Soltau, G.~Saon, and T.~Sainath.
+\newblock Joint training of convolutional and non-convolutional neural
+  networks.
+\newblock In {\em ICASSP}, 2014.
+
+\bibitem{sutskever2013nag}
+I.~Sutskever, J.~Martens, G.~Dahl, and G.~Hinton.
+\newblock On the importance of momentum and initialization in deep learning.
+\newblock In {\em 30th International Conference on Machine Learning}, 2013.
+
+\bibitem{sutskever2014seq}
+I.~Sutskever, O.~Vinyals, and Q.~V. Le.
+\newblock Sequence to sequence learning with neural networks.
+\newblock 2014.
+\newblock http://arxiv.org/abs/1409.3215.
+
+\bibitem{ioffe2015}
+C.~Szegedy and S.~Ioffe.
+\newblock Batch normalization: Accelerating deep network training by reducing
+  internal covariate shift.
+\newblock abs/1502.03167, 2015.
+\newblock http://arxiv.org/abs/1502.03167.
+
+\bibitem{szegedy2014googlenet}
+C.~Szegedy, W.~Liu, Y.~Jia, P.~Sermanet, S.~Reed, D.~Anguelov, D.~Erhan,
+  V.~Vanhoucke, and A.~Rabinovich.
+\newblock Going deeper with convolutions.
+\newblock 2014.
+
+\bibitem{Thakur05optimizationof}
+R.~Thakur and R.~Rabenseifner.
+\newblock Optimization of collective communication operations in mpich.
+\newblock {\em International Journal of High Performance Computing
+  Applications}, 19:49--66, 2005.
+
+\bibitem{vesely2013}
+K.~Vesely, A.~Ghoshal, L.~Burget, and D.~Povey.
+\newblock Sequence-discriminative training of deep neural networks.
+\newblock In {\em Interspeech}, 2013.
+
+\bibitem{waibel1989}
+A.~Waibel, T.~Hanazawa, G.~Hinton, K.~Shikano, and K.~Lang.
+\newblock Phoneme recognition using time-delay neural networks,” acoustics
+  speech and signal processing.
+\newblock {\em {IEEE} Transactions on Acoustics, Speech and Signal Processing},
+  37(3):328--339, 1989.
+
+\bibitem{williams1990}
+R.~Williams and J.~Peng.
+\newblock An efficient gradient-based algorithm for online training of
+  recurrent network trajectories.
+\newblock {\em Neural computation}, 2:490--501, 1990.
+
+\bibitem{yoshioka2015}
+T.~Yoshioka, N.~Ito, M.~Delcroix, A.~Ogawa, K.~Kinoshita, M.~F.~C. Yu, W.~J.
+  Fabian, M.~Espi, T.~Higuchi, S.~Araki, and T.~Nakatani.
+\newblock The ntt chime-3 system: Advances in speech enhancement and
+  recognition for mobile multi-microphone devices.
+\newblock In {\em IEEE ASRU}, 2015.
+
+\bibitem{zaremba2014}
+W.~Zaremba and I.~Sutskever.
+\newblock Learning to execute.
+\newblock abs/1410.4615, 2014.
+\newblock http://arxiv.org/abs/1410.4615.
+
+\end{thebibliography}
