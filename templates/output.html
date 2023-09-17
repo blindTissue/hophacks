@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Display Lists of Strings</title>
+</head>
+<body>
+    <h3>Found Reference:</h3>
+    <ul>
+    {% for item in list1 %}
+        <li><pre>{{ item }}</pre></li>
+    {% endfor %}
+    </ul>
+
+    <h3>Article not in arxiv:</h3>
+    <ul>
+    {% for item in list2 %}
+        <li>{{ item }}</li>
+    {% endfor %}
+    </ul>
+</body>
+</html>

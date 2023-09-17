@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Input Form</title>
+</head>
+<body>
+    <form action="/submit" method="post">
+        <label for="page">Enter Page:</label>
+        <input type="text" id="page" name="page">
+
+        <br>
+        <input type="checkbox" id="switch" name="switch" onchange="this.form.submit()" {{ 'checked' if status else '' }}>
+        <label for="switch">Deep Search</label>
+
+        <br>
+        <input type="submit" value="Submit">
+    </form>
+    
+
+    <!-- <form action="/submit" method="post">
+        <label for="search_type">Enter searcher</label>
+        <input type="text" id="search_type" name="search_type">
+        <input type="submit" value="Submit">
+    </form> -->
+
+</body>
+</html>

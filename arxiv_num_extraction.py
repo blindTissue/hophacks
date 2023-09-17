@@ -4,9 +4,10 @@ import re
 def extract_references_from_pdf(pdf_path):
     # Extract text from the PDF
     text = extract_text(pdf_path)
+    text = text.lower()
 
     # Find the references section (this can be adjusted based on common patterns)
-    references_start = re.search(r'\b(References|Bibliography|Works Cited)\b', text)
+    references_start = re.search(r'\b(references|bibliography|Works Cited)\b', text)
     
     if not references_start:
         print("References section not found.")
@@ -32,7 +33,7 @@ def get_references_only(references):
 #get item that looks like ****.****
 def get_arxiv_number(reference):
     # Extract the arXiv number
-    arxiv_number = re.search(r'arXiv:\d{4}\.\d{4,5}(v\d+)?', reference)
+    arxiv_number = re.search(r'arxiv:\d{4}\.\d{4,5}(v\d+)?', reference)
     # get rid of arxiv: in the string
     if arxiv_number:
         arxiv_number = arxiv_number.group(0)[6:]
