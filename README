@@ -1,3 +1,4 @@
 Project for hophacks
 Program that helps arxiv divers to find relevant part of the reference articles
 run flask_app.py to start the server
+add pdf to the folder to get references
