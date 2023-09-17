@@ -27,7 +27,7 @@ def create_paragraph_list(text, max_len):
     paragraph_list = []
     paragraph = ""
     for line in text.split("\n"):
-        if len(line) < max_len / 4:
+        if len(line) < max_len / 3:
             if paragraph != "":
                 paragraph += line.lower()
                 paragraph = paragraph.replace("  ", " ")
